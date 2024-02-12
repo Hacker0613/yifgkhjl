@@ -1,0 +1,10 @@
+Uri: https://kqrputuuiu.mobirisesite.com/
+File Name: C:\Games\ada\kqrputuuiu.mobirisesite.com\index.htm
+Content Type: text/html
+
+<link rel="stylesheet" href="https://r.mobirisesite.com/354839/assets/web/assets/mobirise-icons2/mobirise2.css">
+
+<link rel="stylesheet" href="https://r.mobirisesite.com/354839/assets/bootstrap/css/bootstrap-grid.min.css">
+<link rel="stylesheet" href="https://r.mobirisesite.com/354839/assets/bootstrap/css/bootstrap-reboot.min.css">
+<link rel="stylesheet" href="https://r.mobirisesite.com/354839/assets/parallax/jarallax.css">
+<link rel="stylesheet" href="https://r.mobirisesite.com/354839/assets/animatecss/animate.css">
